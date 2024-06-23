@@ -15,16 +15,6 @@ This is a simple e-commerce template built with React, featuring search and filt
 
 Check out the live demo on Vercel: [Live Demo](https://e-commerce-rho-azure.vercel.app/)
 
-## Table of Contents
-
-- [Features](#features)
-- [Demo](#demo)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Installation
 
 1. **Clone the repository:**
